@@ -1,0 +1,6 @@
+{
+  "name": "Family Finance",
+  "description": "Gerenciador financeiro familiar moderno com controle de investimentos, evolução patrimonial, despesas fixas e cartões de crédito.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
